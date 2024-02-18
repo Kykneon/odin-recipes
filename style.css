@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(226, 33, 65);
+}
+
+h2 {
+    color: rgb(192, 46, 46);
+    font-weight: 1000;
+}
+
+.container {
+    margin: 100px;
+}
+
+.ingredients {
+    /* background: teal; */
+    color: teal;
+    font-size: 24px;
+}
+
+.steps {
+    font-size: 24px;
+    color: yellowgreen;
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
